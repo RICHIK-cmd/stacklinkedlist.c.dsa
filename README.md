@@ -1,7 +1,2 @@
-# LIST.C.DSA
-
-C programs for Data Structures.
-
-## Programs
-- Recursive Binary Search (birecursive.c)
-- Linked List (lldsa.c)
+# Stack using Linked List
+This repo contains my DSA stack implementation in C.
